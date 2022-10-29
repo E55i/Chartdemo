@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.2922cbe0.js",
-    "index.html": "/index.html",
-    "main.2922cbe0.js.map": "/static/js/main.2922cbe0.js.map"
+    "main.js": "/react-chartjs-demo/static/js/main.2922cbe0.js",
+    "index.html": "/react-chartjs-demo/index.html",
+    "main.2922cbe0.js.map": "/react-chartjs-demo/static/js/main.2922cbe0.js.map"
   },
   "entrypoints": [
     "static/js/main.2922cbe0.js"
