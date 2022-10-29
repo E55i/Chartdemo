@@ -2,6 +2,7 @@
   "name": "react-chartjs-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lassehav-oamk.github.io/react-chartjs-demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
